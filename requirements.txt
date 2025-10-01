@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+SQLAlchemy
+flask_sqlalchemy
+requests
+python-dotenv
